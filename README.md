@@ -19,4 +19,4 @@ Contains release notes on current and previous versions of the Carbon for IBM.co
 * Updates to the Design Kit will be announced in your Figma files. Be sure to update to get latest versions of components and patterns.
 
 ### Developers: 
-Carbon for IBM Products is available at our <a href="[http://github.com/carbon-design-system/carbon-for-ibm-dotcom](https://github.com/carbon-design-system/ibm-products)">Github repo</a>. Check out https://pages.github.ibm.com/cdai-design/pal/ for more information. 
+Carbon for IBM Products is available at our [Github repo](http://github.com/carbon-design-system/ibm-products). Check out https://pages.github.ibm.com/carbon/ibm-products/ for more information. 
